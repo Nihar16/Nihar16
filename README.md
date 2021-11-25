@@ -5,7 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nihar16&theme=onestar&margin-w=35&no-bg=true)](https://github.com/Nihar16) 
 
-![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&config.timezone=Asia%2FCalcutta)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -39,7 +38,7 @@
 
 ![snake svg](https://github.com/Nihar16/Nihar16/blob/output/github-contribution-grid-snake.svg)
 
-![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta&config.display=large)
+
 
 <a href="https://github.com/Nihar16/Nihar16">
   <img align="center" src="https://wakatime.com/share/@Nihar/54d67f53-c41f-4c4f-9f00-732315ee0a00.svg" height="300"/>
