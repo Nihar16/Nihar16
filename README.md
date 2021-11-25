@@ -39,11 +39,11 @@
 ![snake svg](https://github.com/Nihar16/Nihar16/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/Nihar16/Nihar16">
-  <img align="center" src="https://wakatime.com/share/@Nihar/54d67f53-c41f-4c4f-9f00-732315ee0a00.svg" height="300"/>
+  <img align="center" src="https://wakatime.com/share/@Nihar/d0cea133-dcf1-4960-9774-009710fd4e04.svg" height="300"/>
 </a> 
 
 <a href="https://github.com/Nihar16/Nihar16">
-  <img align="right" src="https://wakatime.com/share/@Nihar/54899f45-16d9-4084-b862-76abab4d1b90.svg" height="300"/>
+  <img align="right" src="https://wakatime.com/share/@Nihar/6210dc91-6411-4921-ba60-cf6e8224c85b.svg" height="300"/>
 </a> 
 
 
