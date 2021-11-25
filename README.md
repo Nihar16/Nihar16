@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihar16&label=Profile%20views&color=blue&style=flat" alt="Nihar16"/> <a href="https://wakatime.com/@5e2942a4-4e03-481e-bca8-c68202b906a9"><img src="https://wakatime.com/badge/user/5e2942a4-4e03-481e-bca8-c68202b906a9.svg" alt="Total time coded since Nov 8 2021" /></a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nihar16">  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nihar16"> </p> 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nihar16&theme=onestar&margin-w=35&no-bg=true)](https://github.com/Nihar16) 
 
 ![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&config.timezone=Asia%2FCalcutta)
