@@ -34,7 +34,6 @@
 
 [![Nihar Mane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nihar&theme=github_dark)](https://github.com/Nihar16)
 
-[![Nihar Mane's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nihar16&theme=react-dark)](https://github.com/Nihar16)
 
 
 ## A hungry 🐍 ate my work 🙂 
