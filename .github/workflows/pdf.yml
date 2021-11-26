@@ -1,6 +1,0 @@
-- uses: lowlighter/metrics@latest
-  with:
-    # ... other options
-    markdown: template.md
-    markdown_cache: .cache
-    config_output: markdown-pdf
