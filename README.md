@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihar16&show_icons=true&locale=en&theme=github_dark" alt="nihar16"/></p>
   
-[![Nihar Mane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nihar&theme=github_dark)](https://github.com/Nihar16)
+[![Nihar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nihar&theme=github_dark)](https://github.com/Nihar16)
 
 [![Nihar Mane's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nihar16&theme=react-dark)](https://github.com/Nihar16)
 
