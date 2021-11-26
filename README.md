@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihar Mane</h1>
 <h3 align="center">A passionate developer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihar16&label=Profile%20views&color=blue&style=flat" alt="Nihar16"/> <a href="https://wakatime.com/@5e2942a4-4e03-481e-bca8-c68202b906a9"><img src="https://wakatime.com/badge/user/5e2942a4-4e03-481e-bca8-c68202b906a9.svg" alt="Total time coded since Nov 8 2021" /></a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nihar16"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nihar16"> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihar16&label=Profile%20views&color=blue&style=flat" alt="Nihar16"/> <a href="https://wakatime.com/@5e2942a4-4e03-481e-bca8-c68202b906a9"><img src="https://wakatime.com/badge/user/5e2942a4-4e03-481e-bca8-c68202b906a9.svg" alt="Total time coded since Nov 8 2021" /></a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nihar16"> <img alt ="Github" src="https://img.shields.io/badge/following-3-blue"/> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nihar16"> <img alt="GitHub" src="https://img.shields.io/github/license/Nihar16/Nihar16"></p> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nihar16&theme=onestar&margin-w=35&no-bg=true)](https://github.com/Nihar16) 
 
