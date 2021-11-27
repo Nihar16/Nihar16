@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihar16&show_icons=true&locale=en&theme=github_dark&langs_count=10" alt="nihar16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihar16&show_icons=true&locale=en&theme=github_dark" alt="nihar16"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nihar&theme=github_dark" alt="nihar16"/></p>
   
 [![Nihar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nihar&theme=github_dark)](https://github.com/Nihar16)
 
