@@ -43,5 +43,5 @@
 </a> 
 
 <a href="https://github.com/Nihar16">
-  <img align="right" src="https://wakatime.com/share/@Nihar/6210dc91-6411-4921-ba60-cf6e8224c85b.svg" height="300"/>
+  <img align="right" src="https://wakatime.com/share/@Nihar/5aa43b0b-ee47-4284-916b-aa862cf4589f.svg" height="300"/>
 </a> 
