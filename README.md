@@ -7,7 +7,7 @@
 
 ![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&repositories.forks=true&base.repositories=0&base.metadata=0&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.padding=8%2C%208%20%2B%2011%25) ![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.display=columns&config.padding=8%2C%208%20%2B%2011%25)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 <a href="https://github.com/Nihar16/Nihar16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Nihar16&theme=github_dark&show_owner=true" />
