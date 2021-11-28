@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nihar16&theme=onestar&margin-w=35&no-bg=true)](https://github.com/Nihar16) 
 
-![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&repositories.forks=true&base.metadata=0&lines=1&introduction=1&introduction.title=true&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.display=large)
+![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&repositories.forks=true&base.metadata=0&lines=1&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.display=large)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
