@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nihar16&theme=onestar&margin-w=35&no-bg=true)](https://github.com/Nihar16) 
 
-![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&repositories.forks=true&base.metadata=0&isocalendar=1&lines=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.display=large)
+![Metrics](https://metrics.lecoq.io/Nihar16?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&base.metadata=0&isocalendar=1&languages=1&achievements=1&introduction=1&pagespeed=1&base.indepth=true&base.hireable=true&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=1&introduction.title=true&pagespeed.url=https%3A%2F%2Fgithub.com%2FNihar16&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true&config.display=large)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
