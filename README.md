@@ -7,9 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nihar16&theme=onestar&margin-w=35&no-bg=true)](https://github.com/Nihar16) 
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://github.com/Nihar16/Nihar16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Nihar16&theme=github_dark&show_owner=true" />
