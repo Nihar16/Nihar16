@@ -31,6 +31,8 @@
 <p><a href="https://github.com/Nihar16"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nihar16&show_icons=true&theme=github_dark&langs_count=10" alt="Nihar16" /></p>
 
 <p><a href="https://github.com/Nihar16"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nihar16&count_private=true&show_icons=true&theme=github_dark" alt="Nihar16"/></p>
+
+[![Nihar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nihar16&theme=github-dark&custom_title=%20Nihar's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 [![Nihar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nihar&theme=github_dark)](https://github.com/Nihar16)
 
