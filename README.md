@@ -36,8 +36,8 @@
   
 [![Nihar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nihar&theme=github_dark)](https://github.com/Nihar16)
 
-## A hungry 🐍 ate my work 🙂 
-![github-snake](https://raw.githubusercontent.com/Nihar16/Nihar16/output/github-snake.gif)
+## A hungry 🐍 ate my work 🙂
+![github-snake](https://raw.githubusercontent.com/Nihar16/Nihar16/output/github-contribution-grid-snake-dark.svg)
 
 
 
