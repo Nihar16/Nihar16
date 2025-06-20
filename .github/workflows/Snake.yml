@@ -13,11 +13,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake SVG
+      - name: Generate GitHub Contribution Snake GIF
         uses: Platane/snk@master
         with:
           github_user_name: Nihar16
-          svg_out_path: dist/github-snake.svg
+          gif_out_path: dist/github-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
