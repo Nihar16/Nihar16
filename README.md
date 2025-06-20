@@ -38,7 +38,8 @@
 
 ## A hungry 🐍 ate my work 🙂 
 
-![GitHub Contribution Snake](https://github.com/Nihar16/Nihar16/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+![github-snake](https://raw.githubusercontent.com/Nihar16/Nihar16/output/github-snake.svg)
 
 
 <a href="https://github.com/Nihar16">
