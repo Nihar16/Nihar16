@@ -1,2 +1,9 @@
 <p align = "center"><img src="https://socialify.git.ci/Nihar16/Nihar16/image?custom_description=This+is+my+portfolio.+Welcome+to+the+Backdoor.%0A%3E+_Code%2C+commit%2C+repeat%2C++automate%2C+build%2C+and+break+things+%E2%80%94+sometimes+in+that+order.&description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Auto" alt="Nihar16" width="640" height="320" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nihar16/Nihar15/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nihar16/Nihar16/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nihar16/Nihar16/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
