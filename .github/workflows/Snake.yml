@@ -1,27 +1,31 @@
-name: 🐍 Generate Snake Animation - Matrix Style
+name: 🧪 Generate Matrix Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight UTC
-  workflow_dispatch:     # allow manual trigger
+    - cron: '0 0 * * *' # runs every day at midnight
+  workflow_dispatch:     # allows manual triggering
+  push:
+    branches:
+      - main             # also runs on push to main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout Repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Matrix Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate matrix-style snake animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/matrix-snake.gif?color_snake=#00FF41&color_dots=#0d0d0d,#003300,#007700,#00cc00,#00ff41
+            dist/matrix-snake.gif?palette=github-dark&color_snake=#00FF00&color_dots=#000000,#003300,#006600,#00AA00,#00FF00
 
-      - name: Push animation to GitHub Pages
+      - name: Push generated animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
