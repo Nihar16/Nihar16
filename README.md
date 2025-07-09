@@ -30,8 +30,11 @@
   <img src="https://wakatime.com/share/@Nihar/9133d055-34a2-434e-8165-48b09d88df21.svg" alt="Chart 2" width="415" />
 </p>
 
-![Nihar16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nihar16&theme=transparent&hide_border=true)
-![Nihar16's Stats](https://github-readme-stats.vercel.app/api?username=Nihar16&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=transparent&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="400"/>
+</p>
+
 
 
 
