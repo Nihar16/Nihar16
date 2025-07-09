@@ -30,7 +30,7 @@
   <img src="https://wakatime.com/share/@Nihar/9133d055-34a2-434e-8165-48b09d88df21.svg" alt="Chart 2" width="415" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent)
+![Nihar16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nihar16&theme=transparent&hide_border=true)
 
 
 
