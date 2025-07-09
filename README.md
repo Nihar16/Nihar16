@@ -25,6 +25,7 @@
   <img src="https://wakatime.com/share/@Nihar/27a9a79a-9b08-488b-8669-a7c69a37e133.svg" alt="Chart 3" width="320" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent)
 
 
 
