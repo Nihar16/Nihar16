@@ -17,12 +17,6 @@
   </picture>
 </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nihar16/Nihar16/output/snake.svg" alt="Snake animation" />
-
-
-
 <p align="center">
    <img src="https://wakatime.com/share/@Nihar/27a9a79a-9b08-488b-8669-a7c69a37e133.svg" alt="Chart 1" width="415" />
   &nbsp;&nbsp;
