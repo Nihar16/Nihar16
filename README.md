@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@Nihar/b29831a7-3866-46ff-a7d9-47eac722e1e1.svg" alt="Chart 1" width="280" />
+  <img src="https://wakatime.com/share/@Nihar/b29831a7-3866-46ff-a7d9-47eac722e1e1.svg" alt="Chart 1" width="350" />
   &nbsp;&nbsp;
-  <img src="https://wakatime.com/share/@Nihar/9133d055-34a2-434e-8165-48b09d88df21.svg" alt="Chart 2" width="280" />
+  <img src="https://wakatime.com/share/@Nihar/9133d055-34a2-434e-8165-48b09d88df21.svg" alt="Chart 2" width="350" />
   &nbsp;&nbsp;
   <img src="https://wakatime.com/share/@Nihar/27a9a79a-9b08-488b-8669-a7c69a37e133.svg" alt="Chart 3" width="280" />
 </p>
