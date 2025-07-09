@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="400"/>
 </p>
 
-![Nihar16 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Nihar16&theme=transparent&transparent=true)
+
 
 
 
