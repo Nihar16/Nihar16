@@ -31,6 +31,7 @@
 </p>
 
 ![Nihar16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nihar16&theme=transparent&hide_border=true)
+![Nihar16's Stats](https://github-readme-stats.vercel.app/api?username=Nihar16&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
 
 
