@@ -17,6 +17,10 @@
   </picture>
 </p>
 
+<p align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nihar16&no-bg=true&margin-w=10&margin-h=10" />
+</p>
+
 <p align="center">
    <img src="https://wakatime.com/share/@Nihar/27a9a79a-9b08-488b-8669-a7c69a37e133.svg" alt="Chart 1" width="415" />
   &nbsp;&nbsp;
