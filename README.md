@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://socialify.git.ci/Nihar16/Nihar16/image?custom_description=This+is+my+portfolio.+Welcome+to+the+Backdoor.%0A%3E+_Code%2C+commit%2C+repeat%2C++automate%2C+build%2C+and+break+things+%E2%80%94+sometimes+in+that+order.&description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Auto" alt="Nihar16" width="640" height="320" />
+  <img src="https://socialify.git.ci/Nihar16/Nihar16/image?custom_description=This+is+my+portfolio.+Welcome+to+the+Backdoor.%0A%3E+_Code%2C+commit%2C+repeat%2C++automate%2C+build%2C+and+break+things+%E2%80%94+sometimes+in+that+order.&description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Auto" alt="Nihar16" width="640" height="320"/>
 </p>
 
 <p align=center>
@@ -20,6 +20,7 @@
 </p>
 
 ## 🏆Github Profile Trophies
+
 <p align = "center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nihar16&no-bg=true&margin-w=10&margin-h=10" />
 </p>
@@ -57,11 +58,7 @@
   <img class="glow-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Nihar16.github.io&theme=transparent&hide_border=true" style="box-shadow: 0 0 10px #00ffe0; border-radius: 8px;" alt="Portfolio Website Repository" width="380" />
 </a>
 
-
 </div>
-
-
-
 
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
