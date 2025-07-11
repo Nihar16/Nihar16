@@ -30,18 +30,36 @@
   <img src="https://wakatime.com/share/@Nihar/9133d055-34a2-434e-8165-48b09d88df21.svg" alt="Chart 2" width="415" />
 </p>
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <!-- GitHub Streak (Clickable) -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="400" />
-  </a>
+  <!-- GitHub Streak (Not Clickable) -->
+  <img src="https://git-hub-streak-stats.vercel.app?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
 
   <!-- GitHub General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="380" />
 
+</div>
+
+
+## 📂 Pinned Projects
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <!-- Payment Gateway Repo -->
+  <a href="https://github.com/Nihar16/Payment-Gateway" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Payment-Gateway&theme=transparent&hide_border=true" alt="Payment Gateway Repository" width="380" />
+  </a>
+
+  <!-- Phishing Detection System Repo -->
+  <a href="https://github.com/Nihar16/Phishing-Detection-System" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Phishing-Detection-System&theme=transparent&hide_border=true" alt="Phishing Detection System Repository" width="380" />
+  </a>
+
+</div>
+
+<p align="center">
+  <b>“Be the exploit, not the payload.”</b>
 </p>
-
 
 
 
