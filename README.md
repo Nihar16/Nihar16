@@ -54,7 +54,7 @@
 
   <!-- Phishing Detection System Repo -->
   <a href="https://github.com/Nihar16/Phishing-Detection-System" target="_blank" rel="noopener noreferrer">
-    <img class="glow-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Phishing-Detection-System&theme=transparent&hide_border=true"style="box-shadow: 0 0 10px #00ffe0; border-radius: 8px;" alt="Phishing Detection System Repository" width="380" />
+    <img class="glow-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Phishing-Detection-System&theme=transparent&hide_border=true" style="box-shadow: 0 0 10px #00ffe0; border-radius: 8px;" alt="Phishing Detection System Repository" width="380" />
   </a>
 
 </div>
