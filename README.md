@@ -31,10 +31,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nihar16&theme=transparent&hide_border=true" alt="GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="400"/>
-</p>
 
+  <!-- GitHub Streak (Clickable) -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="400" />
+  </a>
+
+  <!-- GitHub General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="400" />
+
+</p>
 
 
 
