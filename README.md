@@ -21,9 +21,7 @@
 
 ## 🏆Github Profile Trophies
 
-<p align = "center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nihar16&no-bg=true&margin-w=10&margin-h=10"/>
-</p>
+![](https://github-trophies.vercel.app/?username=Nihar16&no-bg=true&margin-w=10&margin-h=10)
 
 ## 🧑‍💻Tech Stats
 
@@ -42,7 +40,6 @@
   <img class="glow-card" src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="380" />
 
 </div>
-
 
 ## 📂 Pinned Projects
 
@@ -63,3 +60,4 @@
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
 </p>
+
