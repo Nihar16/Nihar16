@@ -22,7 +22,7 @@
 ## 🏆Github Profile Trophies
 
 <p align = "center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nihar16&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nihar16&no-bg=true&margin-w=10&margin-h=10"/>
 </p>
 
 ## 🧑‍💻Tech Stats
