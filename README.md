@@ -50,10 +50,7 @@
     <img class="glow-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Payment-Gateway&theme=transparent&hide_border=true" style="box-shadow: 0 0 10px #00ffe0; border-radius: 8px;" alt="Payment Gateway Repository" width="380" />
   </a>
 
-  <!-- Portfolio Website Repo -->
-<a href="https://github.com/Nihar16/Nihar16.github.io" target="_blank" rel="noopener noreferrer">
-  <img class="glow-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Nihar16.github.io&theme=transparent&hide_border=true" style="box-shadow: 0 0 10px #00ffe0; border-radius: 8px;" alt="Portfolio Website Repository" width="380" />
-</a>
+
 
 </div>
 
