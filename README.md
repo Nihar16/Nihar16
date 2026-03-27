@@ -32,14 +32,10 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- GitHub Streak (Clickable) -->
-  <a href="https://git.io/streak-stats">
-    <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
-  </a>
-  <!-- GitHub General Stats (Clickable) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="glow-card" src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="380" />
-  </a>
+  <!-- GitHub Streak (Not Clickable) -->
+  <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
+  <!-- GitHub General Stats -->
+  <img class="glow-card" src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="380" />
 
 </div>
 
