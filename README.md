@@ -32,11 +32,10 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- GitHub Streak (Not Clickable) -->
+  <!-- GitHub Streak -->
   <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
   <!-- GitHub General Stats -->
   <img class="glow-card" src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" width="380" />
-
 </div>
 
 ## 📂 Pinned Projects
