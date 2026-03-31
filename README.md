@@ -36,26 +36,9 @@
   <a href="https://git.io/streak-stats">
     <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
   </a>
-  <!-- GitHub General Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="glow-card" src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=transparent&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="380" />
-  </a>
+  
 </div>
 
-## 📂 Pinned Projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <!-- Payment Gateway Repo -->
- <div align="center">
-  <a href="https://github.com/Nihar16/Payment-Gateway" target="_blank" rel="noopener noreferrer">
-    <img class="glow-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Nihar16&repo=Payment-Gateway&theme=transparent&hide_border=true&cache_seconds=1800" style="box-shadow: 0 0 10px #00ffe0; border-radius: 8px;" alt="Payment Gateway Repository" width="380" />
-  </a>
-</div>
-
-
-
-</div>
 
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
