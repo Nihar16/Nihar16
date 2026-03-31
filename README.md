@@ -37,11 +37,11 @@
 
 <p align="center">
   <a href="https://github.com/Nihar16">
-    <img class="glow-card" src="https://github-stats-alpha.vercel.app/api?username=Nihar16&cc=00000000&tc=00BFFF&ic=00BFFF&bc=00000000&cache_seconds=0" alt="GitHub Stats" width="380" />
+    <img class="glow-card" src="https://github-stats-alpha.vercel.app/api?username=Nihar16&cc=00000000&tc=00BFFF&ic=00BFFF&bc=00000000" alt="GitHub Stats" width="380" />
   </a>
   &nbsp;
   <a href="https://git.io/streak-stats">
-    <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
+    <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=4D9FD6&dates=4D9FD6&currStreakNum=00BFFF&sideNums=00BFFF" alt="GitHub Streak" width="380" />
   </a>
 </p>
 
