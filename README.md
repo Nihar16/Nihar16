@@ -21,7 +21,11 @@
 
 ## 🏆Github Profile Trophies
 
+<div align="center">
+
 ![](https://github-trophies.vercel.app/?username=Nihar16&no-bg=true&margin-w=10&margin-h=10)
+
+</div>
 
 ## 🧑‍💻Tech Stats
 
