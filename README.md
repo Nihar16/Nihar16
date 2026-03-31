@@ -40,7 +40,9 @@
   <a href="https://git.io/streak-stats">
     <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
   </a>
-  
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
+</p>
 </div>
 
 
