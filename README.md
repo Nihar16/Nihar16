@@ -35,16 +35,15 @@
   <img src="https://wakatime.com/share/@Nihar/9133d055-34a2-434e-8165-48b09d88df21.svg" alt="Chart 2" width="415" />
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- GitHub Streak -->
+<p align="center">
+  <a href="https://github.com/Nihar16">
+    <img class="glow-card" src="https://github-stats-alpha.vercel.app/api?username=Nihar16&cc=00000000&tc=00BFFF&ic=00BFFF&bc=00000000" alt="GitHub Stats" width="380" />
+  </a>
+  &nbsp;
   <a href="https://git.io/streak-stats">
     <img class="glow-card" src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
   </a>
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="380" />
 </p>
-</div>
-
 
 <p align="center">
   <b>“Be the exploit, not the payload.”</b>
