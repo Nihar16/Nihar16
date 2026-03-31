@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nihar Mane | Live Stats</title>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: 'JetBrains Mono', monospace;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+            margin: 0;
+        }
+        .stats-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            max-width: 1000px;
+        }
+        .stat-card {
+            filter: drop-shadow(0 0 10px rgba(88, 166, 255, 0.3));
+            transition: transform 0.3s ease;
+        }
+        .stat-card:hover {
+            transform: translateY(-5px);
+            filter: drop-shadow(0 0 15px rgba(88, 166, 255, 0.6));
+        }
+        h1 { color: #58a6ff; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Nihar Mane | Terminal Access</h1>
+    
+    <div class="stats-container">
+        <img class="stat-card" src="https://github-readme-stats.vercel.app/api?username=Nihar16&show_icons=true&theme=tokyonight&count_private=true" alt="Nihar's GitHub Stats">
+        
+        <img class="stat-card" src="https://github-readme-streak-stats.herokuapp.com/?user=Nihar16&theme=tokyonight" alt="Nihar's Streak">
+    </div>
+
+    <div style="margin-top: 40px;">
+        <img class="stat-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihar16&layout=compact&theme=tokyonight" alt="Top Languages">
+    </div>
+</body>
+</html>
