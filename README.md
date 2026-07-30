@@ -9,6 +9,7 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Nihar16/Nihar16">
+  <img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nihar16?style=plastic">
 </p>
 
