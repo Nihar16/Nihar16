@@ -48,7 +48,7 @@
   <img src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
 </a>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Nihar's GitHub Profile Summary" height="180"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nihar16&theme=transparent&utcOffset=8&date_format=j%20M%5B%20Y%5D" alt="Commits per day badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nihar16&theme=transparent&utcOffset=8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Commits per day badge"/>
 
 </p>
 
