@@ -10,6 +10,7 @@
   <img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nihar16?style=plastic">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Nihar16/Nihar16?style=plastic">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Nihar16/Nihar16?style=plastic">
 </p>
 
 
