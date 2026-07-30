@@ -4,6 +4,7 @@
 
 <p align=center>
   <a href="https://wakatime.com/@5e2942a4-4e03-481e-bca8-c68202b906a9"><img src="https://wakatime.com/badge/user/5e2942a4-4e03-481e-bca8-c68202b906a9.svg" alt="Total time coded since Nov 8 2021" /></a>
+  <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub License" src="https://img.shields.io/github/license/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Nihar16/Nihar16?style=plastic">
