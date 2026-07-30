@@ -11,15 +11,14 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nihar16?label=Followers&logo=github&style=flat" />
 </p>
 
-## 🟡Pacman Contribution Graph
+## Contribution Graph
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nihar16/Nihar16/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nihar16/Nihar16/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nihar16/Nihar16/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<!-- galaga -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nihar16/Nihar16/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nihar16/Nihar16/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Nihar16/Nihar16/output/galaga-contribution-graph.svg">
+</picture>
 
 ## 🏆Github Profile Trophies
 
