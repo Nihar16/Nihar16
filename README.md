@@ -23,7 +23,7 @@
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Nihar16/Nihar16/output/galaga-contribution-graph.svg">
 </picture>
 
-## 🏆Github Profile Trophies
+## 🏆 GitHub Profile Trophies
 
 <div align="center">
 
@@ -47,7 +47,9 @@
  <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
 </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Nihar's GitHub Profile Summary" height="180"/>
 </p>
+
 
 
 <p align="center">
