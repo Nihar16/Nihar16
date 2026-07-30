@@ -4,6 +4,7 @@
 
 <p align=center>
   <a href="https://wakatime.com/@5e2942a4-4e03-481e-bca8-c68202b906a9"><img src="https://wakatime.com/badge/user/5e2942a4-4e03-481e-bca8-c68202b906a9.svg" alt="Total time coded since Nov 8 2021" /></a>
+  <img src="https://img.shields.io/badge/Nihar16-GitHub-181717?style=plastic&logo=github&logoColor=white&labelColor=181717" alt="GitHub badge"/>
   <img alt="GitHub License" src="https://img.shields.io/github/license/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nihar16/Nihar16?style=plastic">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Nihar16/Nihar16?style=plastic">
@@ -46,8 +47,15 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="380" />
   </a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Nihar's GitHub Profile Summary" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&utcOffset=8" alt="Nihar's Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="General stats badge" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&utcOffset=8" alt="Nihar's Productive Time" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nihar16&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Nihar's GitHub Profile Summary"/>
 </p>
 
 
