@@ -15,7 +15,7 @@
 </p>
 
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <!-- galaga -->
 <picture>
